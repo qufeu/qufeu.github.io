@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://qufeu.github.io/oGT/sitemap.oGT.gz
